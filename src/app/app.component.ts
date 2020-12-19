@@ -9,7 +9,7 @@ export class AppComponent implements OnInit {
   title = 'SHOPALL This is For Testing';
 
   constructor() {
-    console.log('Constructor Neww');
+    console.log('Constructor');
   }
 
   ngOnInit(): void {
