@@ -14,6 +14,5 @@ export class AppComponent implements OnInit {
 
   ngOnInit(): void {
     console.log('New Log');
-    console.log('New Log');
   }
 }
