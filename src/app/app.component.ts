@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
+<<<<<<< HEAD
 export class AppComponent implements OnInit {
   title = 'SHOPALL This is For Testing';
 
@@ -15,4 +16,8 @@ export class AppComponent implements OnInit {
   ngOnInit(): void {
     console.log('New Log');
   }
+=======
+export class AppComponent {
+  title = 'SHOPALL';
+>>>>>>> parent of fb6a880 (Changes)
 }
